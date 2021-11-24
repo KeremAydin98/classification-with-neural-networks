@@ -13,4 +13,5 @@ for CIFAR10:
 
 -CNN model
 
-
+CIFAR10 dataset website:
+https://www.cs.toronto.edu/~kriz/cifar.html
