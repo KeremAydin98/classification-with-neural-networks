@@ -1,7 +1,16 @@
-# mnist-classification
+# classification-with-neural-networks
 
 
-I have created two models which are in order ANN(Artificial Neural Network) and CNN(Convolutional Neural Network) and done classification on MNIST dataset. Then lastly I compared the results.
+for MNIST:
+
+-ANN model
+-CNN model
 
 MNIST dataset website:
 http://yann.lecun.com/exdb/mnist/
+
+for CIFAR10:
+
+-CNN model
+
+
