@@ -3,16 +3,14 @@
 
 for MNIST:
 
-  ANN model
-
-  CNN model
+* I have created an ANN model and CNN model
 
 MNIST dataset website:
 http://yann.lecun.com/exdb/mnist/
 
 for CIFAR10:
 
-  CNN model
+* I have only created a CNN model, since ANN model would have been inefficient
   
 
 CIFAR10 dataset website:
