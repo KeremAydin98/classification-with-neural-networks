@@ -10,7 +10,7 @@ http://yann.lecun.com/exdb/mnist/
 
 for CIFAR10:
 
-* I have only created a CNN model, since ANN model would have been inefficient
+* I have created only a CNN model, since ANN model would have been inefficient
   
 
 CIFAR10 dataset website:
